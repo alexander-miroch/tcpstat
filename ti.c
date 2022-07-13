@@ -10,7 +10,7 @@
 #include <netinet/tcp.h>
 #include "ti.h"
 
-
+// Options
 struct option long_opts[] = {
         { "help",0,0,'h' },
 };
